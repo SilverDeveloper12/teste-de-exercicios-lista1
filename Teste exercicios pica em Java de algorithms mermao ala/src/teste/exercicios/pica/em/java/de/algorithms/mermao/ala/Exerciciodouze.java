@@ -16,7 +16,6 @@ public class Exerciciodouze {
     calcL = (L * L) * 2;
     calcR = pi * (R * R);
     
-        System.out.println(calcL);
         
     if(calcL > calcR){
         System.out.println("A area do quadrado e maior!");
